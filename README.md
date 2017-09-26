@@ -3,7 +3,7 @@
 
 Overview
 ---
-<img src="writeup_iamges/main.jpg" width="600px">
+<img src="writeup_images/main.jpg" width="600px">
 
 [This](https://github.com/udacity/CarND-Advanced-Lane-Lines) Udacity's repository contains starting files for the Project.
 
@@ -26,6 +26,8 @@ Files:
 * `advanced_lane_find_final.ipynb` - Final pipeline class.
 * `building_pipeline.ipynb` - Building pipeline steps and visualization.
 * `calibration_parameters.ipynb` - Camera calibraton steps.
+* `project_video.mp4` , `challenge_video.mp4`, `harder_video.mp4` - Processed videos
+* `coeffs.p` - Saved calibration parameters
 
 This lab requires:
 
